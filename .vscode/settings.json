@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "express-cartridges"
+    "liveServer.settings.multiRootWorkspaceName": "express-cartridges",
+    "livePreview.defaultPreviewPath": "/index.html"
 }
